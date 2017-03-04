@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkey Escape", "Assembly-CSharp.csproj", "{17434FAF-547C-BED2-84E4-153FC48E52E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkey Escape", "Assembly-CSharp-Editor.csproj", "{CF3A934B-3527-4E27-3D9C-C64FB3F6C5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17434FAF-547C-BED2-84E4-153FC48E52E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17434FAF-547C-BED2-84E4-153FC48E52E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17434FAF-547C-BED2-84E4-153FC48E52E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17434FAF-547C-BED2-84E4-153FC48E52E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3A934B-3527-4E27-3D9C-C64FB3F6C5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3A934B-3527-4E27-3D9C-C64FB3F6C5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3A934B-3527-4E27-3D9C-C64FB3F6C5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3A934B-3527-4E27-3D9C-C64FB3F6C5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
